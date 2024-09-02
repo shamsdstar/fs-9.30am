@@ -1,1 +1,2 @@
 This line belongs to Master Branch
+Second line of Master Branch
